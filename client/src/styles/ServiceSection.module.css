@@ -1,5 +1,5 @@
 .service {
-  width: 1300px;
+  width: 1200px;
   margin: 0 auto;
   text-align: center;
   padding: 100px 0px;
@@ -57,7 +57,7 @@
 .deleteServices {
   display: flex;
   justify-content: center;
-  width: 1300px;
+  width: 1200px;
   margin: 0 auto;
   flex-wrap: wrap;
 }

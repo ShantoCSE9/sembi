@@ -7,7 +7,7 @@
 .benifitsMenu {
   display: flex;
   justify-content: space-around;
-  width: 1300px;
+  width: 1200px;
   margin: 0 auto;
   flex-wrap: wrap;
 }
