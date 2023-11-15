@@ -1,0 +1,28 @@
+.contact {
+  width: 1300px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+  padding: 100px 0;
+}
+.tittle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Source Code Pro", monospace;
+  font-size: 20px;
+}
+.contactInfo {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  font-family: "Source Code Pro", monospace;
+}
+.support {
+  line-height: 40px;
+  margin: 50px;
+}
+.hr {
+  line-height: 40px;
+  margin: 50px;
+}

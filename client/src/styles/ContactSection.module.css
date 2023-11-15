@@ -1,0 +1,45 @@
+.contactMenu {
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  margin: 200px auto;
+  font-family: "Gabarito", sans-serif;
+  color: rgb(29, 29, 29);
+}
+.contactUs {
+  font-size: 60px;
+  text-align: right;
+  color: rgb(0, 0, 0);
+  font-family: "Source Code Pro", monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0 40px;
+}
+.vertical {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.innerVertical {
+  width: 2px;
+  background-color: rgb(88, 0, 0);
+  height: 100px;
+  margin: 0 auto;
+}
+.summary {
+  text-align: justify;
+  margin: 0 auto;
+  font-size: 15px;
+  margin: 0 40px;
+  font-family: "Roboto Mono", monospace;
+  font-weight: 800;
+  color: rgb(20, 20, 20);
+  width: 900px;
+}
+.textField {
+  width: 100%;
+  margin: 10px !important;
+}

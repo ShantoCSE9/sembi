@@ -1,0 +1,50 @@
+.tittle {
+  font-family: "Source Code Pro", monospace;
+  text-align: center;
+  font-size: 40px;
+}
+.para {
+  font-family: "Sometype Mono", monospace;
+  text-align: center;
+  font-size: 17px;
+}
+.summary {
+  text-align: justify;
+  margin: 0 auto;
+  font-size: 15px;
+  margin: 0 40px;
+  height: 200px;
+  font-family: "Roboto Mono", monospace;
+  font-weight: 800;
+  color: rgb(20, 20, 20);
+  padding: 200px 0;
+}
+.aboutMenu {
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  font-family: "Gabarito", sans-serif;
+  color: rgb(29, 29, 29);
+}
+.aboutUs {
+  font-size: 60px;
+  text-align: right;
+  color: rgb(0, 0, 0);
+  margin: 0 40px;
+  padding: 200px 0;
+  font-family: "Source Code Pro", monospace;
+}
+.vertical {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  padding: 200px 0;
+}
+.innerVertical {
+  width: 2px;
+  background-color: rgb(122, 4, 4);
+  height: 70px;
+  margin: 0 auto;
+}

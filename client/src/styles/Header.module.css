@@ -1,0 +1,30 @@
+.header {
+  width: 1300px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 100px 0px;
+}
+.headerInfo {
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 100px;
+  margin: 0 auto;
+}
+.tittle {
+  font-family: "Source Code Pro", monospace;
+  color: #ff6100;
+  font-size: 50px;
+}
+.para {
+  font-family: "Sometype Mono", monospace;
+  font-size: 25px;
+  color: rgb(63, 60, 60);
+  padding: 20px 0px;
+  margin: 0 auto;
+}
+.image {
+  width: 400px;
+}

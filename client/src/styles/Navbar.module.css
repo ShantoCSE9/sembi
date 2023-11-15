@@ -1,0 +1,28 @@
+.navParent {
+  box-shadow: 2px 5px 5px 2px rgb(190, 190, 190);
+  width: 100%;
+  height: 90px;
+}
+.nav {
+  margin: 0 auto;
+  width: 1300px;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+.tittle {
+  font-size: 50px;
+  font-family: "Gabarito", sans-serif;
+  color: #ff6100;
+}
+.unorderList {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Gabarito", sans-serif;
+  font-size: 20px;
+  width: 500px;
+}
+.List {
+  cursor: pointer;
+  text-align: right;
+}

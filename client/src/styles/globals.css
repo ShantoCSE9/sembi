@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  scroll-behavior: smooth;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+}
+.bg1 {
+  position: fixed;
+  right: -5%;
+  bottom: -10%;
+  z-index: 999;
+}
+.bg2 {
+  position: fixed;
+  bottom: -10%;
+  z-index: 999;
+  left: -5%;
+}
+.btn {
+  background-color: #ff6100 !important;
+  font-size: 20px !important;
+  margin: 18px !important;
+  width: 150px;
+  height: 50px;
+  color: white;
+  font-family: "Sometype Mono", monospace !important;
+}
+.btn:hover {
+  background-color: black !important;
+}
+
+/* font-family: 'Gabarito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Code Pro', monospace;
+
+
+
+
+font-family: 'Sometype Mono', monospace;
+font-family: 'Source Code Pro', monospace;
+
+
+
+*/

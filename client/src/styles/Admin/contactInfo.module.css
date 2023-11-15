@@ -1,0 +1,19 @@
+.contactInfo {
+  width: 1300px;
+  margin: 0 auto;
+  padding-bottom: 100px;
+}
+.tittle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Source Code Pro", monospace;
+  font-size: 40px;
+  padding: 100px 0;
+  color: rgb(231, 67, 1);
+}
+.heading {
+  display: flex;
+  justify-content: center;
+  font-family: "Source Code Pro", monospace;
+}

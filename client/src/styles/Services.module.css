@@ -1,0 +1,19 @@
+.serviceMenu {
+  width: 1100px;
+  margin: 20px auto;
+}
+
+.tittle {
+  font-family: "Source Code Pro", monospace;
+  text-align: center;
+  font-size: 40px;
+}
+.para {
+  font-family: "Sometype Mono", monospace;
+  font-size: 17px;
+  text-align: center;
+  color: rgb(63, 60, 60);
+  padding: 20px 0px;
+  width: 800px;
+  margin: 0 auto;
+}

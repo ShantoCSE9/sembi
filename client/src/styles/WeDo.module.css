@@ -1,0 +1,21 @@
+.weDo {
+  width: 300px;
+  margin: 20px;
+  height: 300px;
+}
+.image {
+  text-align: center;
+  width: 100%;
+  object-fit: cover;
+}
+.tittle {
+  font-family: "Source Code Pro", monospace;
+  text-align: center;
+  font-size: 17px;
+  padding-bottom: 50px;
+}
+.weDo:hover {
+  border-radius: 10px;
+  transition: 0.5s;
+  background-color: rgb(245, 242, 241);
+}
